@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://expert-telegram-5gx4xjjp5w7hppp4-8000.app.github.dev'),
 
     /*
     |--------------------------------------------------------------------------
